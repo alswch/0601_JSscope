@@ -1,0 +1,37 @@
+Scope/DOM/Event Mini Challenges
+Goal:
+Demonstrate understanding of DOM manipulation and events. Build familiarity with JS syntax.
+
+Assignment:
+Complete and submit the following three exercises to go over JavaScript event binding:
+
+== arguing buttons
+• Create an HTML page with two buttons that argue with each other.
+    When one button is clicked, the text "I'm right" should appear in a text display div
+    When the other button is clicked, the text is replaced with, "No, I'm right!"
+
+== don't hover over me element
+• Add a large element to the page that says "Don't hover over me" inside of it.
+    When you hover over the element, trigger an alert box that says, "Hey, I told you not to hover over me!"
+
+== keypress display
+• Add an h1 display tag to the page
+• Add a javascript event listener that listens for a keypress.
+    When the user presses that key, the text of the h1 should show the value of the key.
+    Example: If the user presses "J", the text inside the h1 should be "J".
+
+== username/password form validation
+• Add a form to the page.
+    The form should include inputs for username and password
+    Add a button to the bottom of the form
+• Add javascript code that does the following things when the button is pressed:
+    checks that the password is 12345678
+    checks that the username is less than 14 characters in length
+• If the info in the form is correct, change the h1 text to say "Congrats on knowing your username and password!"
+• If anything is wrong, send an alert message saying "Incorrect username or password"
+
+Grading criteria:
+Code has a comment that notes which problem the code snippet is attempting to solve.
+All solutions should explicitly fulfill the requirements noted in each problem.
+Complete = Meets all grading criteria above.
+Incomplete = Does not meet all grading criteria above. Needs improvement or missing submission.
