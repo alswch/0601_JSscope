@@ -1,0 +1,11 @@
+#textDisplay {
+  /*position: relative;*/
+  width: 100px;
+  height: 40px;
+  left: 170px;
+  top: 10px;
+  text-align: center;
+  border: 2px solid red;
+  background-color: white;
+  margin-top: 10px;
+}
