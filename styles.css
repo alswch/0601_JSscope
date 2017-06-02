@@ -9,3 +9,14 @@
   background-color: white;
   margin-top: 10px;
 }
+#dont {
+  width: 200px;
+  height: 100px;
+  left: 170px;
+  top: 10px;
+  text-align: center;
+  background-color: orange;
+  margin-top: 20px;
+  color: red;
+  font-size: 30px;
+}
