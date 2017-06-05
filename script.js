@@ -32,7 +32,7 @@ var login = document.getElementById('login');
 var message = document.getElementById('message');
 
 login.addEventListener("click", function() {
-  if (username.value.length < 14 && password.value == 12345678) {
+  if ((username.value.length < 14) && (password.value == 12345678)) {
     message.innerHTML = "Congrats on knowing your username and password!";
   } else {
     alert("Incorrect username or password");
